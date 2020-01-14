@@ -1,7 +1,8 @@
 ---
-title: MIT 2157 - Planet Google
+title: About
 author: Brett Petch
-date: 2020-01-14 09:30:00 
+date: 2020-01-14 09:30:00
+layout: page
 ---
 
 # Planet Google: Big Data and the Information Society
@@ -30,11 +31,12 @@ date: 2020-01-14 09:30:00
 |Final Exam        |N/A    |See Syllabus|35%    |
 |Written Reflection|April 2|See Syllabus|25%    |
 |Participation     |N/A    |See Syllabus|15%    |
- 
 
-[Lecture 1]: lecture/0
-[Lecture 2]: lecture/1
-[Lecture 3]: lecture/2
+
+
+[Lecture 1]: 2020/01/14/0
+[Lecture 2]: 2020/01/14/1
+[Lecture 3]: 2020/01/14/2
 
 
 [Why You Should be Worried About Machines Reading Your Emotions]: https://www.theguardian.com/technology/2019/mar/06/facial-recognition-software-emotional-science
@@ -50,4 +52,3 @@ date: 2020-01-14 09:30:00
 [98 personal data points that Facebook uses to target ads to you]: https://www.washingtonpost.com/news/the-intersect/wp/2016/08/19/98-personal-data-points-that-facebook-uses-to-target-ads-to-you/
 
 [The Laborers Who Keep Dick Pics and Beheadings Out of Your Facebook Feed]: https://www.wired.com/2014/10/content-moderation/
-
