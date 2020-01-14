@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Planet Google
 description: A bold typographic theme inspired by Swiss design.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/MIT-2157" # the subpath of your site, e.g. /blog
+url: "https://brettpetch.ca" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: MIT-2157 # the GitHub repo name for your project
 github_username: brettpetch
 
