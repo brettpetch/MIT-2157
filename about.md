@@ -7,6 +7,15 @@ layout: page
 
 # Planet Google: Big Data and the Information Society
 ### Zak Bronson
+#### Course Description
+Discover how access to and control of behind-the-scenes information is a major force in our lives. This course explores how search engines harvest “big” data from users and use it to map, analyze, and exploit patterns of online behaviour for marketing, government and corporate intelligence, and other purposes.
+By taking this course, students will:
+- Comprehend the theoretical principles that underlie key concepts of large-scale data systems, including algorithms, predictive analytics, linked data, and metadata
+- Recognize key continuities and differences between the various paradigms of data that prevail in modern technological discourse, and place these paradigms in an historical and social context
+- Critically engage with statements in the popular and professional media related to big data, and in so doing distinguish fact from fiction, and truth from hype
+- Communicate both their understanding and their critical engagement to organizations and individuals that would benefit from this knowledge, and be in a position to reward from it
+
+## Class Schedule
 
 |          Topic         |    Notes   |              Readings                    |
 |------------------------|------------|------------------------------------------|
@@ -25,6 +34,8 @@ layout: page
 | Work and Labour in the Era of Big Data | [Lecture 12] | WMD Ch 6, 7; [The Laborers Who Keep Dick Pics and Beheadings Out of Your Facebook Feed] |
 |Delete Your Account! Oversight & Resistance | [Lecture 13] | WMD: Conclusion and Afterword| 
 
+#### Course Evaluation
+
 | Assignment | Date | Details    | Value | 
 |------------------|-------|------------|-------|
 |Midterm Exam      |Feb 11 |See Syllabus|25%    |
@@ -32,7 +43,16 @@ layout: page
 |Written Reflection|April 2|See Syllabus|25%    |
 |Participation     |N/A    |See Syllabus|15%    |
 
+#### Assignemnt Descriptions
 
+1. ##### Midterm Exam - 25% (in class Feb 11)
+During Week 6, students will write a 2-hour in-class midterm on the course readings and lecture materials. The exam will cover the course material from Weeks 1-5 and will likely feature multiple choice, short answer, definition, and long answer questions. More information on the exam format will be provided in class prior to the midterm date.
+1. ##### Final Exam (TBD)
+The final exam is comprehensive, but it will be weighted towards the material from the second half of the course. In addition to multiple choice, short answer, and short essay questions, the final exam will also feature a longer essay response based on the course content.
+1. ##### Written Reflection Paper - 25% (April 2nd)
+For this assignment, students will be asked to examine their digital footprint through online profiles such as Facebook, Twitter, Google, and LinkedIn. Based on this information, students will be asked to write a 4-5-page reflection paper that responds to a series of outlined questions. Details on the specific guidelines of the assignment will provided in class.
+1. ##### In-Class Participation - 15% (ongoing)
+Participation and discussion are an essential element of the learning process, and students will be provided with many opportunities to contribute their thoughts and opinions in lecture, group activities, and class discussion facilitations. Students will be graded on the strength and quality of their in-class contributions.
 
 [Lecture 1]: 2020/01/14/0
 [Lecture 2]: 2020/01/14/1
