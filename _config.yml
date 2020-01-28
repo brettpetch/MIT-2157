@@ -35,3 +35,17 @@ markdown: kramdown
 google_analytics: UA-45906012-10
 
 owl: https://owl.uwo.ca/portal/site/4d1e5b8a-e60f-4d43-9b45-554cb29f0bde
+
+timezone: America/Toronto
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category_index"
